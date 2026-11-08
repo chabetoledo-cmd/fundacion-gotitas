@@ -1,0 +1,28 @@
+FUNDACIÓN GOTITAS DEL ROCÍO - SITIO WEB INSTITUCIONAL
+
+ARCHIVOS
+- index.html: página web principal.
+- privacidad.html: borrador de política de privacidad pendiente de revisión.
+- assets/logo-fundacion.jpg: logotipo compartido por la fundación.
+- assets/director-guido-perez.png: retrato institucional del director.
+- assets/galeria/: fotografías propias compartidas para trabajo en equipo, cultura, capacitación y celebraciones.
+
+CÓMO VER EL SITIO
+1. Extrae el ZIP completo en una carpeta.
+2. No separes index.html de la carpeta assets.
+3. Abre index.html con Chrome, Edge o Firefox.
+4. Para publicar, sube todos los archivos y carpetas conservando esta estructura a tu hosting.
+
+PENDIENTE ANTES DE PUBLICAR EN INTERNET
+- Confirmar denominación legal y nombre del director (en los materiales de proyecto aparece Guido Perez).
+- Incorporar dirección, correo, teléfono y WhatsApp institucionales reales.
+- Añadir enlaces oficiales de Facebook, Instagram, LinkedIn y X.
+- Definir medio de donación institucional y publicar instrucciones verificadas; no usar cuentas personales.
+- Revisar y aprobar los textos de misión, visión y programas.
+- Obtener y archivar autorizaciones válidas para publicar fotografías, especialmente imágenes de niñas, niños y adolescentes.
+- Completar y aprobar la política de privacidad conforme a la normativa ecuatoriana.
+- Conectar el formulario a un backend o proveedor seguro. Actualmente valida el formulario en el navegador, pero NO envía ni almacena datos.
+- Configurar HTTPS, dominio, alojamiento, respaldos y monitoreo.
+
+IMPORTANTE
+Esta entrega corresponde únicamente al sitio público. No incluye panel administrativo, base de datos, aplicación móvil ni procesamiento de pagos. Los formularios y donaciones reales se integrarán en fases posteriores, conforme al expediente técnico.
